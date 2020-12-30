@@ -1,9 +1,9 @@
 # Webpack Starter
 
-Este es el proyecto inicial para crear aplicaciones utilizando webpack.
+Este es el proyecto inicial crud con Firebase
 
 ### Notas:
-Recuerden reconstruir los módulos de Node
+Reconstruir los módulos de Node
 ```
 npm install
 ```
