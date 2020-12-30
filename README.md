@@ -1,4 +1,4 @@
-# Webpack Starter
+# Webpack Starter using ts, firebase
 
 Este es el proyecto inicial crud con Firebase
 
